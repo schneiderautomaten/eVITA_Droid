@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "390682959629",
+    "project_id": "firebase-evita"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390682959629:android:16e61ae81d5ca0a9",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390682959629-htqlc1p9fvbh8arabg7dca2egmvgufm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIhwIO6K5riJUiD0EcoixkmNMCaFiHcJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

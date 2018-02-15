@@ -1,5 +1,5 @@
 /*
- * This is the source code of Telegram for Android v. 3.x.x.
+ * This is the source code of eVITA for Android v. 3.x.x.
  * It is licensed under GNU GPL v. 2 or later.
  * You should have received a copy of the license in this archive (see LICENSE).
  *
@@ -1275,7 +1275,7 @@ public class ProfileActivity extends BaseFragment implements NotificationCenter.
             final ArrayList<Integer> actions = new ArrayList<>();
             TLRPC.TL_userFull userFull = MessagesController.getInstance().getUserFull(user.id);
             if (userFull != null && userFull.phone_calls_available) {
-                items.add(LocaleController.getString("CallViaTelegram", R.string.CallViaTelegram));
+                items.add(LocaleController.getString("CallViaeVITA", R.string.CallViaeVITA));
                 actions.add(2);
             }
 			items.add(LocaleController.getString("Call", R.string.Call));

@@ -1,5 +1,5 @@
 /*
- * This is the source code of Telegram for Android v. 3.x.x.
+ * This is the source code of eVITA for Android v. 3.x.x.
  * It is licensed under GNU GPL v. 2 or later.
  * You should have received a copy of the license in this archive (see LICENSE).
  *
@@ -261,7 +261,7 @@ public class PaymentFormActivity extends BaseFragment implements NotificationCen
         void currentPasswordUpdated(TLRPC.account_Password password);
     }
 
-    private class TelegramWebviewProxy {
+    private class eVITAWebviewProxy {
         @JavascriptInterface
         public void postEvent(final String eventName, final String eventData) {
             AndroidUtilities.runOnUIThread(new Runnable() {
@@ -1065,7 +1065,7 @@ public class PaymentFormActivity extends BaseFragment implements NotificationCen
                     CookieManager cookieManager = CookieManager.getInstance();
                     cookieManager.setAcceptThirdPartyCookies(webView, true);
                 }
-                webView.addJavascriptInterface(new TelegramWebviewProxy(), "TelegramWebviewProxy");
+                webView.addJavascriptInterface(new eVITAWebviewProxy(), "eVITAWebviewProxy");
                 webView.setWebViewClient(new WebViewClient() {
                     @Override
                     public void onLoadResource(WebView view, String url) {

@@ -1,5 +1,5 @@
 /*
- * This is the source code of Telegram for Android v. 3.x.x.
+ * This is the source code of eVITA for Android v. 3.x.x.
  * It is licensed under GNU GPL v. 2 or later.
  * You should have received a copy of the license in this archive (see LICENSE).
  *
@@ -649,10 +649,10 @@ public class DocumentSelectActivity extends BaseFragment {
         items.add(fs);
 
         try {
-            File telegramPath = new File(Environment.getExternalStorageDirectory(), "Telegram");
+            File telegramPath = new File(Environment.getExternalStorageDirectory(), "eVITA");
             if (telegramPath.exists()) {
                 fs = new ListItem();
-                fs.title = "Telegram";
+                fs.title = "eVITA";
                 fs.subtitle = telegramPath.toString();
                 fs.icon = R.drawable.ic_directory;
                 fs.file = telegramPath;

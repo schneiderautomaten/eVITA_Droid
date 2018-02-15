@@ -1,5 +1,5 @@
 /*
- * This is the source code of Telegram for Android v. 3.x.x.
+ * This is the source code of eVITA for Android v. 3.x.x.
  * It is licensed under GNU GPL v. 2 or later.
  * You should have received a copy of the license in this archive (see LICENSE).
  *
@@ -68,7 +68,7 @@ public class WebviewActivity extends BaseFragment {
     private final static int share = 1;
     private final static int open_in = 2;
 
-    private class TelegramWebviewProxy {
+    private class eVITAWebviewProxy {
         @JavascriptInterface
         public void postEvent(final String eventName, final String eventData) {
             AndroidUtilities.runOnUIThread(new Runnable() {
@@ -173,7 +173,7 @@ public class WebviewActivity extends BaseFragment {
             webView.getSettings().setMixedContentMode(WebSettings.MIXED_CONTENT_ALWAYS_ALLOW);
             CookieManager cookieManager = CookieManager.getInstance();
             cookieManager.setAcceptThirdPartyCookies(webView, true);
-            webView.addJavascriptInterface(new TelegramWebviewProxy(), "TelegramWebviewProxy");
+            webView.addJavascriptInterface(new eVITAWebviewProxy(), "eVITAWebviewProxy");
         }
 
         webView.setWebViewClient(new WebViewClient() {

@@ -1,5 +1,5 @@
 /*
- * This is the source code of Telegram for Android v. 3.x.x.
+ * This is the source code of eVITA for Android v. 3.x.x.
  * It is licensed under GNU GPL v. 2 or later.
  * You should have received a copy of the license in this archive (see LICENSE).
  *
@@ -626,7 +626,7 @@ public class IntroActivity extends Activity implements NotificationCenter.Notifi
             loadTexture(R.drawable.intro_tg_plane, 21);
             loadTexture(R.drawable.intro_tg_sphere, 22);
 
-            Intro.setTelegramTextures(textures[22], textures[21]);
+            Intro.seteVITATextures(textures[22], textures[21]);
             Intro.setPowerfulTextures(textures[17], textures[18], textures[16], textures[15]);
             Intro.setPrivateTextures(textures[19], textures[20]);
             Intro.setFreeTextures(textures[14], textures[13]);

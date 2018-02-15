@@ -1,5 +1,5 @@
 /*
- * This is the source code of Telegram for Android v. 1.3.x.
+ * This is the source code of eVITA for Android v. 1.3.x.
  * It is licensed under GNU GPL v. 2 or later.
  * You should have received a copy of the license in this archive (see LICENSE).
  *
@@ -3971,10 +3971,10 @@ public class MediaController implements AudioManager.OnAudioFocusChangeListener,
 
     public void checkSaveToGalleryFiles() {
         try {
-            File telegramPath = new File(Environment.getExternalStorageDirectory(), "Telegram");
-            File imagePath = new File(telegramPath, "Telegram Images");
+            File telegramPath = new File(Environment.getExternalStorageDirectory(), "eVITA");
+            File imagePath = new File(telegramPath, "eVITA Images");
             imagePath.mkdir();
-            File videoPath = new File(telegramPath, "Telegram Video");
+            File videoPath = new File(telegramPath, "eVITA Video");
             videoPath.mkdir();
 
             if (saveToGallery) {

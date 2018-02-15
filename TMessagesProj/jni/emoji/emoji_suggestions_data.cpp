@@ -2,10 +2,10 @@
 WARNING! All changes made in this file will be lost!
 Created from 'empty' by 'codegen_emoji'
 
-This file is part of Telegram Desktop,
-the official desktop version of Telegram messaging app, see https://telegram.org
+This file is part of eVITA Desktop,
+the official desktop version of eVITA messaging app, see https://telegram.org
 
-Telegram Desktop is free software: you can redistribute it and/or modify
+eVITA Desktop is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AppName">Telegram</string>
-    <string name="AppNameBeta">Telegram Beta</string>
+    <string name="AppName">eVITA</string>
+    <string name="AppNameBeta">eVITA Beta</string>
     <string name="LanguageName">Português (Brasil)</string>
     <string name="English">Inglês</string>
     <string name="LanguageNameInEnglish">Portuguese (Brazil)</string>
@@ -15,10 +15,10 @@
     <!--code enter view-->
     <string name="YourCode">Verificação do tel.</string>
     <string name="SentSmsCode">Enviamos um SMS com um código de ativação para **%1$s**.</string>
-    <string name="SentAppCode">Nós enviamos o código para o aplicativo do **Telegram** em seu outro dispositivo.</string>
+    <string name="SentAppCode">Nós enviamos o código para o aplicativo do **eVITA** em seu outro dispositivo.</string>
     <string name="SentCallCode">Enviamos uma ligação de ativação para **%1$s**.
 
-Não atenda, o Telegram processará automaticamente.</string>
+Não atenda, o eVITA processará automaticamente.</string>
     <string name="SentCallOnly">Nós te ligaremos em **%1$s** para ditar o código.</string>
     <string name="CallText">Vamos te ligar em %1$d:%2$02d</string>
     <string name="SmsText">Vamos te enviar uma SMS em %1$d:%2$02d</string>
@@ -27,7 +27,7 @@ Não atenda, o Telegram processará automaticamente.</string>
     <string name="WrongNumber">Número incorreto?</string>
     <string name="DidNotGetTheCode">Não recebeu o código?</string>
     <string name="CancelAccountReset">Cancelar exclusão da conta</string>
-    <string name="CancelAccountResetInfo">Alguém com acesso ao seu número de telefone **%1$s** solicitou a exclusão de sua conta do Telegram e a redefinição de sua senha de Verificação em Duas Etapas.
+    <string name="CancelAccountResetInfo">Alguém com acesso ao seu número de telefone **%1$s** solicitou a exclusão de sua conta do eVITA e a redefinição de sua senha de Verificação em Duas Etapas.
 
 Se não foi você, por favor insira o código que te enviamos via SMS.</string>
     <string name="ResetAccount">Apagar conta</string>
@@ -95,9 +95,9 @@ Você pode cancelar esse processo a qualquer momento.</string>
     <string name="PaymentFailed">Desculpe, o pagamento foi recusado.</string>
     <string name="PaymentConnectionFailed">Não foi possível encontrar o servidor de pagamento. Verifique sua conexão e tente novamente.</string>
     <string name="PaymentWarning">Atenção</string>
-    <string name="PaymentWarningText">Nem o Telegram, nem %1$s terão acesso ao número do seu cartão de crédito. Os detalhes do cartão de crédito serão tratados apenas pelo sistema de pagamentos, %2$s.
+    <string name="PaymentWarningText">Nem o eVITA, nem %1$s terão acesso ao número do seu cartão de crédito. Os detalhes do cartão de crédito serão tratados apenas pelo sistema de pagamentos, %2$s.
 
-Pagamentos irão diretamente para o desenvolvedor de %1$s. O Telegram não pode prover qualquer garantia, então proceda por sua conta e risco. Em caso de problemas, contate o desenvolvedor de %1$s ou o seu banco.</string>
+Pagamentos irão diretamente para o desenvolvedor de %1$s. O eVITA não pode prover qualquer garantia, então proceda por sua conta e risco. Em caso de problemas, contate o desenvolvedor de %1$s ou o seu banco.</string>
     <string name="PaymentPassword">Senha &amp; E-Mail</string>
     <string name="PaymentPasswordTitle">Senha</string>
     <string name="PaymentPasswordEnter">Insira uma senha</string>
@@ -147,9 +147,9 @@ ou vá para a seção \'Contatos\'.</string>
     <string name="ForwardTo">Encaminhar para...</string>
     <string name="DisappearingPhoto">Foto Secreta</string>
     <string name="DisappearingVideo">Vídeo Secreto</string>
-    <string name="CompatibilityChat">%1$s está usando uma versão mais antiga do Telegram, por isso fotos secretas serão mostradas em modo de compatibilidade.
+    <string name="CompatibilityChat">%1$s está usando uma versão mais antiga do eVITA, por isso fotos secretas serão mostradas em modo de compatibilidade.
 
-Assim que %2$s atualizar o Telegram, fotos com timers de 1 minuto ou menos passarão a funcionar no modo ‘Toque e segure para ver’, e você será notificado caso a outra pessoa salve a tela.</string>
+Assim que %2$s atualizar o eVITA, fotos com timers de 1 minuto ou menos passarão a funcionar no modo ‘Toque e segure para ver’, e você será notificado caso a outra pessoa salve a tela.</string>
     <string name="SearchMessages">MENSAGENS</string>
     <string name="Search">Busca</string>
     <string name="MuteNotifications">Silenciar notificações</string>
@@ -174,7 +174,7 @@ Assim que %2$s atualizar o Telegram, fotos com timers de 1 minuto ou menos passa
     <string name="Bold">Negrito</string>
     <string name="Italic">Itálico</string>
     <string name="Regular">Regular</string>
-    <string name="ContactsPermissionAlert">Para se conectar com todos que você conhece, permita ao **Telegram** o acesso aos seus contatos.</string>
+    <string name="ContactsPermissionAlert">Para se conectar com todos que você conhece, permita ao **eVITA** o acesso aos seus contatos.</string>
     <string name="ContactsPermissionAlertNotNow">AGORA NÃO</string>
     <string name="ContactsPermissionAlertContinue">CONTINUAR</string>
     <!--channels-->
@@ -215,8 +215,8 @@ Assim que %2$s atualizar o Telegram, fotos com timers de 1 minuto ou menos passa
     <string name="NewChannel">Novo Canal</string>
     <string name="EnterChannelName">Nome do canal</string>
     <string name="AddMutual">Adicionar contatos no canal</string>
-    <string name="ChannelUsernameHelp">Pessoas podem compartilhar esse link com outros e encontrar seu canal usando a busca do Telegram.</string>
-    <string name="MegaUsernameHelp">Pessoas podem compartilhar esse link com outros e encontrar o seu grupo usando a busca do Telegram.</string>
+    <string name="ChannelUsernameHelp">Pessoas podem compartilhar esse link com outros e encontrar seu canal usando a busca do eVITA.</string>
+    <string name="MegaUsernameHelp">Pessoas podem compartilhar esse link com outros e encontrar o seu grupo usando a busca do eVITA.</string>
     <string name="ChannelUsernamePlaceholder">link</string>
     <string name="ChannelPrivateLinkHelp">Pessoas podem entrar em seu canal com este link. Você pode desativar o link quando quiser.</string>
     <string name="MegaPrivateLinkHelp">Pessoas podem entrar em seu canal com este link. Você pode desativar o link quando quiser.</string>
@@ -282,7 +282,7 @@ Se não estiver interessado, sugerimos que crie um canal privado.</string>
     <string name="ChannelInviteViaLink">Convidar via Link</string>
     <string name="ChannelRemoveUserAdmin">Descartar admin</string>
     <string name="ChannelMembersInfo">Somente os administradores do canal podem ver essa lista.</string>
-    <string name="ChannelLinkInfo">Qualquer um com Telegram instalado poderá entrar no seu canal abrindo este link.</string>
+    <string name="ChannelLinkInfo">Qualquer um com eVITA instalado poderá entrar no seu canal abrindo este link.</string>
     <string name="ChannelAdminsInfo">Você pode adicionar administradores para ajudar você a gerenciar seu canal. Aperte e segure para removê-los.</string>
     <string name="ChannelJoinTo">Você deseja entrar no canal \'%1$s\'?</string>
     <string name="ChannelCantOpenPrivate">Desculpe, esta conversa não pode mais ser acessada.</string>
@@ -506,7 +506,7 @@ Duração: %2$s</string>
     <string name="SendingVideoStatus">enviando um vídeo...</string>
     <string name="SendingFile">enviando um arquivo...</string>
     <string name="GotAQuestion">Tem alguma dúvida
-sobre o Telegram?</string>
+sobre o eVITA?</string>
     <string name="ChatGallery">Galeria</string>
     <string name="ChatLocation">Localização</string>
     <string name="ChatVideo">Vídeo</string>
@@ -550,7 +550,7 @@ sobre o Telegram?</string>
     <string name="SendAsFile">Enviar como arquivo</string>
     <string name="SendAsFiles">Enviar como Arquivos</string>
     <string name="OpenUrlAlert">Abrir URL em %1$s?</string>
-    <string name="BotPermissionGameAlert">Permitir ao %1$s passar seu nome do Telegram e id (não o seu número de telefone) para páginas que você abrir com esse bot?</string>
+    <string name="BotPermissionGameAlert">Permitir ao %1$s passar seu nome do eVITA e id (não o seu número de telefone) para páginas que você abrir com esse bot?</string>
     <string name="ReportSpam">REPORTAR SPAM</string>
     <string name="ReportSpamAndLeave">REPORTAR SPAM E SAIR</string>
     <string name="AddContactChat">ADICIONAR CONTATO</string>
@@ -661,7 +661,7 @@ sobre o Telegram?</string>
     <string name="NotificationGroupKickMember">%1$s removeu %3$s do grupo %2$s</string>
     <string name="NotificationGroupKickYou">%1$s removeu você do grupo %2$s</string>
     <string name="NotificationGroupLeftMember">%1$s saiu do grupo %2$s</string>
-    <string name="NotificationContactJoined">%1$s entrou para o Telegram!</string>
+    <string name="NotificationContactJoined">%1$s entrou para o eVITA!</string>
     <string name="NotificationUnrecognizedDevice">%1$s,
 Nós detectamos que alguém acessou a sua conta a partir de um novo aparelho em %2$s
 
@@ -673,7 +673,7 @@ Se não foi você, você pode ir em Configurações - Privacidade e Segurança -
 Se você acha que alguém acessou a sua conta contra a sua vontade, você pode habilitar a verificação em duas etapas nas configurações de Privacidade e Segurança.
 
 Atenciosamente,
-Equipe Telegram</string>
+Equipe eVITA</string>
     <string name="NotificationContactNewPhoto">%1$s atualizou a foto do perfil</string>
     <string name="NotificationInvitedToGroupByLink">%1$s entrou para o grupo %2$s via link de convite</string>
     <string name="Reply">Responder</string>
@@ -713,7 +713,7 @@ Equipe Telegram</string>
     <!--contacts view-->
     <string name="SelectContact">Selecionar Contato</string>
     <string name="NoContacts">Ainda não há contatos</string>
-    <string name="InviteText2">Ei, estou usando o Telegram para conversar. Vem comigo! Baixe aqui: %1$s</string>
+    <string name="InviteText2">Ei, estou usando o eVITA para conversar. Vem comigo! Baixe aqui: %1$s</string>
     <string name="TodayAt">às</string>
     <string name="YesterdayAt">ontem às</string>
     <string name="Online">online</string>
@@ -727,11 +727,11 @@ Equipe Telegram</string>
     <string name="WithinAMonth">visto no último mês</string>
     <string name="ALongTimeAgo">visto há muito tempo</string>
     <string name="NewMessageTitle">Nova Mensagem</string>
-    <string name="InviteFriendsHelp">Selecione os contatos para convidá-los ao Telegram</string>
-    <string name="InviteToTelegram">CONVIDAR PARA O TELEGRAM</string>
-    <string name="ShareTelegram">Compartilhar Telegram...</string>
+    <string name="InviteFriendsHelp">Selecione os contatos para convidá-los ao eVITA</string>
+    <string name="InviteToeVITA">CONVIDAR PARA O eVITA</string>
+    <string name="ShareeVITA">Compartilhar eVITA...</string>
     <string name="UpdateContactsTitle">Atualizar contatos?</string>
-    <string name="UpdateContactsMessage">O Telegram detectou muitos contatos não sincronizados, você gostaria de sincronizá-los agora? Escolha \'OK\' se você está usando seu próprio celular, cartão SIM e conta do Google.</string>
+    <string name="UpdateContactsMessage">O eVITA detectou muitos contatos não sincronizados, você gostaria de sincronizá-los agora? Escolha \'OK\' se você está usando seu próprio celular, cartão SIM e conta do Google.</string>
     <!--group create view-->
     <string name="SendMessageTo">Adicionar pessoas...</string>
     <string name="SoftUserLimitAlert">Você poderá adicionar mais usuários após finalizar a criação do grupo e convertê-lo em um supergrupo.</string>
@@ -756,7 +756,7 @@ O grupo \"**%2$s**\" se tornará privado.</string>
 O canal \"**%2$s**\" se tornará privado.</string>
     <string name="CopyLink">Copiar Link</string>
     <string name="ShareLink">Compartilhar Link</string>
-    <string name="LinkInfo">Qualquer um com Telegram instalado poderá entrar no seu grupo abrindo este link.</string>
+    <string name="LinkInfo">Qualquer um com eVITA instalado poderá entrar no seu grupo abrindo este link.</string>
     <!--set admins view-->
     <string name="SetAdminsTitle">Administradores de Conversas</string>
     <string name="SetAdminsAll">Todos São Administradores</string>
@@ -799,7 +799,7 @@ Para ir além do limite e ter funções adcionais, converta para um supergrupo:
     <string name="ShareContact">Compartilhar</string>
     <string name="AddContact">Adicionar</string>
     <string name="AddContactTitle">Adicionar contato</string>
-    <string name="ContactNotRegistered">%1$s ainda não está no Telegram, deseja lhe enviar um convite para entrar?</string>
+    <string name="ContactNotRegistered">%1$s ainda não está no eVITA, deseja lhe enviar um convite para entrar?</string>
     <string name="Invite">Convidar</string>
     <string name="BlockContact">Bloquear</string>
     <string name="EditContact">Editar</string>
@@ -825,7 +825,7 @@ Para ir além do limite e ter funções adcionais, converta para um supergrupo:
     <string name="EncryptionKeyDescription">Essa imagem e texto foram derivadas da chave criptográfica para esse chat secreto com **%1$s**.
 
 Se você vê o mesmo no dispositivo de **%2$s**, a criptografia ponta a ponta está garantida.</string>
-    <string name="EncryptionKeyLink">https://telegram.org/faq/br#chats-secretos</string>
+    <string name="EncryptionKeyLink">https://eVITA.org/faq/br#chats-secretos</string>
     <string name="NumberUnknown">Desconhecido</string>
     <string name="Info">Info</string>
     <string name="Phone">Telefone</string>
@@ -837,10 +837,10 @@ Se você vê o mesmo no dispositivo de **%2$s**, a criptografia ponta a ponta es
     <string name="UsernameInvalidShort">O nome de usuário deve ter pelo menos 5 caracteres.</string>
     <string name="UsernameInvalidLong">O nome de usuário não pode exceder 32 caracteres.</string>
     <string name="UsernameInvalidStartNumber">Desculpe, o nome de usuário não pode começar com um número.</string>
-    <string name="UsernameHelp">Você pode escolher um nome de usuário no **Telegram**. Assim, outras pessoas poderão te encontrar pelo nome de usuário e entrar em contato sem precisar saber seu telefone.
+    <string name="UsernameHelp">Você pode escolher um nome de usuário no **eVITA**. Assim, outras pessoas poderão te encontrar pelo nome de usuário e entrar em contato sem precisar saber seu telefone.
 
 Você pode usar **a–z**, **0–9** e underline. O tamanho mínimo é **5** caracteres.</string>
-    <string name="UsernameHelpLink">Esse link abre um chat com você mesmo no Telegram:
+    <string name="UsernameHelpLink">Esse link abre um chat com você mesmo no eVITA:
 %1$s</string>
     <string name="UsernameChecking">Verificando nome de usuário...</string>
     <string name="UsernameAvailable">%1$s está disponível.</string>
@@ -873,7 +873,7 @@ Você pode usar **a–z**, **0–9** e underline. O tamanho mínimo é **5** car
     <string name="Masks">Máscaras</string>
     <string name="MasksInfo">Você pode adicionar máscaras em fotos que você envia. Para isso, abra o editor de fotos antes de enviar uma foto.</string>
     <string name="FeaturedStickers">Stickers Populares</string>
-    <string name="FeaturedStickersInfo">Esses são os stickers do momento no Telegram. Você pode adicionar stickers customizados através do bot @stickers.</string>
+    <string name="FeaturedStickersInfo">Esses são os stickers do momento no eVITA. Você pode adicionar stickers customizados através do bot @stickers.</string>
     <string name="ArchivedStickers">Stickers Arquivados</string>
     <string name="ArchivedMasks">Máscaras Arquivadas</string>
     <string name="ArchivedStickersEmpty">Nenhum sticker arquivado</string>
@@ -900,7 +900,7 @@ Você pode usar **a–z**, **0–9** e underline. O tamanho mínimo é **5** car
     <string name="SelectColor">Selecionar cor</string>
     <string name="CreateNewTheme">Criar Novo Tema</string>
     <string name="CreateNewThemeHelp">Toque no ícone da paleta para visualizar a lista de elementos de cada tela - e editá-los.</string>
-    <string name="CreateNewThemeInfo">Você pode criar seu próprio tema alterando as cores do app. Você pode voltar ao tema padrão do Telegram aqui.</string>
+    <string name="CreateNewThemeInfo">Você pode criar seu próprio tema alterando as cores do app. Você pode voltar ao tema padrão do eVITA aqui.</string>
     <!--settings view-->
     <string name="ResetNotificationsText">Restaurar todas as configurações de notificação</string>
     <string name="TextSize">Tamanho do Texto</string>
@@ -925,7 +925,7 @@ Você pode usar **a–z**, **0–9** e underline. O tamanho mínimo é **5** car
     <string name="NotificationsAndSounds">Notificações e Sons</string>
     <string name="CustomNotifications">Notificações Personalizadas</string>
     <string name="ProfilePopupNotification">Notificações popup</string>
-    <string name="ProfilePopupNotificationInfo">Novas mensagens desse contato aparecerão em sua tela quando você não estiver no Telegram.</string>
+    <string name="ProfilePopupNotificationInfo">Novas mensagens desse contato aparecerão em sua tela quando você não estiver no eVITA.</string>
     <string name="NotificationsLed">LED</string>
     <string name="NotificationsLedColor">Cor</string>
     <string name="ColorBlue">Azul</string>
@@ -958,25 +958,25 @@ Você pode usar **a–z**, **0–9** e underline. O tamanho mínimo é **5** car
     <string name="SendByEnter">Enviar usando \'Enter\'</string>
     <string name="TerminateAllSessions">Terminar todas as outras sessões</string>
     <string name="Events">Eventos</string>
-    <string name="ContactJoined">Contato entrou para o Telegram</string>
+    <string name="ContactJoined">Contato entrou para o eVITA</string>
     <string name="PinnedMessages">Mensagens Fixadas</string>
     <string name="Language">Idioma</string>
     <string name="LanguageCustom">Personalizado</string>
-    <string name="AskAQuestionInfo">Note que o suporte do Telegram é feito por voluntários. Tentaremos responder o mais rápido possível, mas poderemos demorar um pouco.
+    <string name="AskAQuestionInfo">Note que o suporte do eVITA é feito por voluntários. Tentaremos responder o mais rápido possível, mas poderemos demorar um pouco.
 
-Por favor verifique a página de <![CDATA[<a href=\"https://telegram.org/faq#general\">Perguntas Frequentes</a>]]>: há dicas e respostas para a maioria dos <![CDATA[<a href=\"https://telegram.org/faq#troubleshooting\">problemas</a>]]>.</string>
+Por favor verifique a página de <![CDATA[<a href=\"https://eVITA.org/faq#general\">Perguntas Frequentes</a>]]>: há dicas e respostas para a maioria dos <![CDATA[<a href=\"https://eVITA.org/faq#troubleshooting\">problemas</a>]]>.</string>
     <string name="AskButton">Pergunte a um voluntário</string>
-    <string name="TelegramFAQ">Perguntas Frequentes</string>
-    <string name="TelegramFaq">Perguntas Frequentes</string>
-    <string name="TelegramFaqUrl">https://telegram.org/faq/br</string>
+    <string name="eVITAFAQ">Perguntas Frequentes</string>
+    <string name="eVITAFaq">Perguntas Frequentes</string>
+    <string name="eVITAFaqUrl">https://eVITA.org/faq/br</string>
     <string name="PrivacyPolicy">Política de Privacidade</string>
-    <string name="PrivacyPolicyUrl">https://telegram.org/privacy</string>
+    <string name="PrivacyPolicyUrl">https://eVITA.org/privacy</string>
     <string name="DeleteLocalization">Apagar localização?</string>
     <string name="IncorrectLocalization">Arquivo de localização incorreto</string>
     <string name="NotificationsService">Manter Serviço Ativo</string>
     <string name="NotificationsServiceInfo">Reiniciar o app quando desligado pelo usuário ou pelo sistema. Isso irá garantir que o app mostre as notificações.</string>
     <string name="NotificationsServiceConnection">Conexão em Segundo Plano</string>
-    <string name="NotificationsServiceConnectionInfo">Manter uma conexão de baixo impacto para o Telegram receber notificações. Habilite para notificações mais confiáveis.</string>
+    <string name="NotificationsServiceConnectionInfo">Manter uma conexão de baixo impacto para o eVITA receber notificações. Habilite para notificações mais confiáveis.</string>
     <string name="SortBy">Ordenar Por</string>
     <string name="ImportContacts">Importar Contatos</string>
     <string name="SortFirstName">Primeiro nome</string>
@@ -1012,14 +1012,14 @@ Por favor verifique a página de <![CDATA[<a href=\"https://telegram.org/faq#gen
     <string name="NotificationsPriorityMax">Máxima</string>
     <string name="RepeatNotificationsNever">Nunca</string>
     <string name="RepeatNotifications">Repetir Notificações</string>
-    <string name="PhoneNumberHelp">Você pode alterar seu número do Telegram aqui. Sua conta e todos os seus dados — mensagens, mídia, contatos, etc. serão movidos para o novo número.
+    <string name="PhoneNumberHelp">Você pode alterar seu número do eVITA aqui. Sua conta e todos os seus dados — mensagens, mídia, contatos, etc. serão movidos para o novo número.
 
-**Importante:** todos os contatos do Telegram terão seu **novo número** adicionado às suas lista de contatos, desde que eles tenham seu número antigo e você não os tenha bloqueado no Telegram.</string>
-    <string name="PhoneNumberAlert">Todos os seus contatos do Telegram terão seu novo número adicionado às suas listas de contatos, desde que eles tenham seu antigo número e você não os tenha bloqueado no Telegram.</string>
+**Importante:** todos os contatos do eVITA terão seu **novo número** adicionado às suas lista de contatos, desde que eles tenham seu número antigo e você não os tenha bloqueado no eVITA.</string>
+    <string name="PhoneNumberAlert">Todos os seus contatos do eVITA terão seu novo número adicionado às suas listas de contatos, desde que eles tenham seu antigo número e você não os tenha bloqueado no eVITA.</string>
     <string name="PhoneNumberChange">ALTERAR NÚMERO</string>
     <string name="ChangePhoneNewNumber">Novo número</string>
     <string name="ChangePhoneHelp">Vamos enviar uma SMS com um código de confirmação para o seu novo número.</string>
-    <string name="ChangePhoneNumberOccupied">O número %1$s já possui uma conta do Telegram. Por favor, exclua esta conta antes de migrar para o novo número.</string>
+    <string name="ChangePhoneNumberOccupied">O número %1$s já possui uma conta do eVITA. Por favor, exclua esta conta antes de migrar para o novo número.</string>
     <string name="NotificationsOther">Outro</string>
     <string name="VibrationDisabled">Desativado</string>
     <string name="PopupEnabled">Ativado</string>
@@ -1043,7 +1043,7 @@ Por favor verifique a página de <![CDATA[<a href=\"https://telegram.org/faq#gen
     <string name="Emoji">Emoji</string>
     <string name="EmojiBigSize">Desenhe um único emoji grande</string>
     <string name="EmojiUseDefault">Usar emoji padrão do sistema</string>
-    <string name="TelegramVersion">Telegram para Android %1$s</string>
+    <string name="eVITAVersion">eVITA para Android %1$s</string>
     <string name="DebugMenu">Debug Menu</string>
     <string name="DebugMenuImportContacts">Importar Contatos</string>
     <string name="DebugMenuReloadContacts">Recarregar Contatos</string>
@@ -1065,7 +1065,7 @@ Por favor verifique a página de <![CDATA[<a href=\"https://telegram.org/faq#gen
     <string name="UseProxyForCalls">Usar proxy para chamadas</string>
     <string name="UseProxyForCallsInfo">Servidores proxy podem diminuir a qualidade de suas chamadas.</string>
     <string name="LowDiskSpaceTitle">Atenção</string>
-    <string name="LowDiskSpaceMessage">Seu dispositivo está quase sem espaço. Para esvaziar um pouco, você pode configurar o Telegram para manter apenas mídias recentes.</string>
+    <string name="LowDiskSpaceMessage">Seu dispositivo está quase sem espaço. Para esvaziar um pouco, você pode configurar o eVITA para manter apenas mídias recentes.</string>
     <string name="LowDiskSpaceTitle2">Remover mídias após</string>
     <string name="LowDiskSpaceNeverRemove">Nunca remover</string>
     <string name="AutodownloadContacts">Contatos</string>
@@ -1077,7 +1077,7 @@ Por favor verifique a página de <![CDATA[<a href=\"https://telegram.org/faq#gen
     <!--cache view-->
     <string name="LocalDatabase">Banco de Dados Local</string>
     <string name="LocalDatabaseClear">Limpar todos os textos em cache?</string>
-    <string name="LocalDatabaseInfo">Limpar o banco de dados local apagará todos os textos das mensagens em cache e compactará o banco de dados para economizar espaço. O Telegram precisa de alguns dados para trabalhar, então o tamanho do banco não vai chegar a zero.
+    <string name="LocalDatabaseInfo">Limpar o banco de dados local apagará todos os textos das mensagens em cache e compactará o banco de dados para economizar espaço. O eVITA precisa de alguns dados para trabalhar, então o tamanho do banco não vai chegar a zero.
 
 Essa operação pode demorar alguns minutos para ser concluída.</string>
     <string name="ClearMediaCache">Limpar Cache</string>
@@ -1094,7 +1094,7 @@ Essa operação pode demorar alguns minutos para ser concluída.</string>
     <string name="KeepMedia">Manter Mídias</string>
     <string name="KeepMediaInfo">Fotos, vídeos e outros arquivos da nuvem que você **não acessou** durante esse período serão removidos deste dispositivo para economizar espaço em disco.
 
-Todas as mídias permanecerão na nuvem do Telegram e poderão ser baixadas novamente conforme necessário.</string>
+Todas as mídias permanecerão na nuvem do eVITA e poderão ser baixadas novamente conforme necessário.</string>
     <string name="KeepMediaForever">Permanentemente</string>
     <string name="AudioAutodownload">Mensagens de voz</string>
     <string name="VideoMessagesAutodownload">Mensagens de vídeo</string>
@@ -1102,7 +1102,7 @@ Todas as mídias permanecerão na nuvem do Telegram e poderão ser baixadas nova
     <string name="SessionsTitle">Sessões Ativas</string>
     <string name="CurrentSession">Sessão atual</string>
     <string name="NoOtherSessions">Nenhuma outra sessão ativa</string>
-    <string name="NoOtherSessionsInfo">Você pode entrar no Telegram a partir de outro celular, tablet ou computador usando o mesmo número de telefone. Todos os seus dados serão sincronizados instantaneamente.</string>
+    <string name="NoOtherSessionsInfo">Você pode entrar no eVITA a partir de outro celular, tablet ou computador usando o mesmo número de telefone. Todos os seus dados serão sincronizados instantaneamente.</string>
     <string name="OtherSessions">Sessões Ativas</string>
     <string name="SessionsInfo">Controle suas sessões em outros aparelhos.</string>
     <string name="TerminateSessionInfo">Toque em uma sessão para terminá-la.</string>
@@ -1253,7 +1253,7 @@ Talvez você precise reiniciar o app para que isso tenha efeito.</string>
     <string name="YourEmailSkipWarning">Atenção</string>
     <string name="YourEmailSkipWarningText">É sério!
 
-Se você esquecer a sua senha, você perderá o acesso a sua conta do Telegram. Não há nenhuma forma de recuperá-la.</string>
+Se você esquecer a sua senha, você perderá o acesso a sua conta do eVITA. Não há nenhuma forma de recuperá-la.</string>
     <string name="YourEmailAlmostThere">Quase lá!</string>
     <string name="YourEmailAlmostThereText">Por favor, verifique o seu e-mail (não esqueça da pasta spam) para completar a configuração da verificação em duas etapas.</string>
     <string name="YourPasswordSuccess">Pronto!</string>
@@ -1326,7 +1326,7 @@ Toda vez que você entrar na sua conta em um novo aparelho, será preciso digita
     <string name="PrivacyLastSeen">Último Acesso</string>
     <string name="PrivacyPayments">Pagamentos</string>
     <string name="PrivacyPaymentsClear">Limpar dados de pagamento &amp; envio</string>
-    <string name="PrivacyPaymentsClearInfo">Você pode remover suas informações de envio e instruir aos provedores de pagamentos para remover seus cartões de crédito salvos. Note que o Telegram nunca armazena seus dados de cartão de crédito.</string>
+    <string name="PrivacyPaymentsClearInfo">Você pode remover suas informações de envio e instruir aos provedores de pagamentos para remover seus cartões de crédito salvos. Note que o eVITA nunca armazena seus dados de cartão de crédito.</string>
     <string name="PrivacyClearShipping">Dados de envio</string>
     <string name="PrivacyClearPayment">Dados de pagamento</string>
     <string name="LastSeenEverybody">Todos</string>
@@ -1368,7 +1368,7 @@ Toda vez que você entrar na sua conta em um novo aparelho, será preciso digita
     <string name="InviteToChannelError">Desculpe, você não pode adicionar esse usuário a canais devido às configurações de privacidade dele.</string>
     <string name="CreateGroupError">Você não pode criar um grupo com esses usuários devido as configurações de privacidade deles.</string>
     <string name="PrivacyCallsP2PTitle">Ponta a Ponta</string>
-    <string name="PrivacyCallsP2PHelp">Desativar o ponta a ponta irá transmitir as chamadas através dos servidores do Telegram, para evitar revelar o seu endereço de IP, mas pode diminuir a qualidade do áudio.</string>
+    <string name="PrivacyCallsP2PHelp">Desativar o ponta a ponta irá transmitir as chamadas através dos servidores do eVITA, para evitar revelar o seu endereço de IP, mas pode diminuir a qualidade do áudio.</string>
     <!--edit video view-->
     <string name="SendingVideo">Enviando vídeo...</string>
     <string name="SendingGif">Enviando GIF...</string>
@@ -1432,7 +1432,7 @@ Toda vez que você entrar na sua conta em um novo aparelho, será preciso digita
     <string name="ActionAddUserSelf">un1 retornou ao grupo</string>
     <string name="ActionAddUserSelfMega">un1 entrou no grupo</string>
     <string name="ActionAddUserSelfYou">Você retornou ao grupo</string>
-    <string name="UnsupportedMedia">Esta mensagem não é suportada na sua versão do Telegram. Para visualizá-la atualize seu aplicativo em https://telegram.org/update</string>
+    <string name="UnsupportedMedia">Esta mensagem não é suportada na sua versão do eVITA. Para visualizá-la atualize seu aplicativo em https://eVITA.org/update</string>
     <string name="AttachPhoto">Foto</string>
     <string name="AttachVideo">Vídeo</string>
     <string name="AttachPhotoExpired">A foto expirou</string>
@@ -1463,7 +1463,7 @@ Toda vez que você entrar na sua conta em um novo aparelho, será preciso digita
     <string name="NoPlayerInstalled">Você não possui um reprodutor de vídeo, instale um para continuar</string>
     <string name="NoMailInstalled">Por favor, envie um email para sms@stel.com e conte-nos sobre seu problema.</string>
     <string name="NoHandleAppInstalled">Você não possui um aplicativo que suporte o tipo de arquivo \'%1$s\', por favor instale um para continuar</string>
-    <string name="InviteUser">Este usuário ainda não possui Telegram, deseja enviar um convite?</string>
+    <string name="InviteUser">Este usuário ainda não possui eVITA, deseja enviar um convite?</string>
     <string name="AreYouSure">Você tem certeza?</string>
     <string name="AddToTheGroupTitle">Adicionar %1$s ao chat %2$s?</string>
     <string name="AddToTheGroupForwardCount">Número de mensagens antigas para encaminhar:</string>
@@ -1473,7 +1473,7 @@ Toda vez que você entrar na sua conta em um novo aparelho, será preciso digita
     <string name="SendContactTo">Enviar contato para %1$s?</string>
     <string name="AreYouSureLogout">Você tem certeza que desejar sair?
 
-Saiba que você pode usar o Telegram em vários dispositivos de uma vez.
+Saiba que você pode usar o eVITA em vários dispositivos de uma vez.
 
 Lembre-se, sair apaga todos os seus Chats Secretos.</string>
     <string name="AreYouSureSessions">Você tem certeza que deseja terminar todas as outras sessões?</string>
@@ -1500,15 +1500,15 @@ Lembre-se, sair apaga todos os seus Chats Secretos.</string>
     <string name="SendMessagesToGroup">Enviar mensagens para %1$s?</string>
     <string name="SendGameToGroup">Compartilhar jogo com %1$s?</string>
     <string name="SendContactToGroup">Enviar contato para %1$s?</string>
-    <string name="NoUsernameFound">Não há conta do Telegram com esse nome de usuário</string>
+    <string name="NoUsernameFound">Não há conta do eVITA com esse nome de usuário</string>
     <string name="BotCantJoinGroups">Esse bot não pode entrar em grupos.</string>
-    <string name="SecretLinkPreviewAlert">Você gostaria de ativar a pré-visualização estendida de links em Chats Secretos? Note que a pré-visualização é gerada nos servidores do Telegram.</string>
+    <string name="SecretLinkPreviewAlert">Você gostaria de ativar a pré-visualização estendida de links em Chats Secretos? Note que a pré-visualização é gerada nos servidores do eVITA.</string>
     <string name="SecretChatContextBotAlert">Os bots integrados são fornecidos por desenvolvedores terceiros. Para o bot funcionar, os símbolos que você digita depois do nome de usuário do bot são enviados para o respectivo desenvolvedor.</string>
     <string name="EditMessageError">Desculpe, você não pode editar essa mensagem.</string>
-    <string name="AllowReadSms">Permita o acesso às SMS ao Telegram, assim podemos automaticamente adicionar o código para você.</string>
-    <string name="AllowReadCall">Permita o acesso às ligações ao Telegram, assim podemos automaticamente adicionar o código para você.</string>
-    <string name="AllowFillNumber">Permita o acesso às ligações e SMS ao Telegram, assim podemos automaticamente adicionar o seu número e te enviar o código.</string>
-    <string name="AllowReadCallAndSms">Permita o acesso às SMS e ligações ao Telegram, assim podemos automaticamente adicionar o código para você.</string>
+    <string name="AllowReadSms">Permita o acesso às SMS ao eVITA, assim podemos automaticamente adicionar o código para você.</string>
+    <string name="AllowReadCall">Permita o acesso às ligações ao eVITA, assim podemos automaticamente adicionar o código para você.</string>
+    <string name="AllowFillNumber">Permita o acesso às ligações e SMS ao eVITA, assim podemos automaticamente adicionar o seu número e te enviar o código.</string>
+    <string name="AllowReadCallAndSms">Permita o acesso às SMS e ligações ao eVITA, assim podemos automaticamente adicionar o código para você.</string>
     <string name="UserRestricted">Você não tem permissão para isso.</string>
     <string name="YouBlockedUser">Desculpe, você não pode adicionar esse usuário ou bot à grupos por tê-lo bloqueado. Desbloqueie para prosseguir.</string>
     <string name="JoinGroup">ENTRAR NO GRUPO</string>
@@ -1518,17 +1518,17 @@ Lembre-se, sair apaga todos os seus Chats Secretos.</string>
     <string name="ErrorSendRestrictedStickers">Desculpe, os administradores do grupo te restringiram do envio de stickers.</string>
     <string name="ErrorSendRestrictedMedia">Desculpe, os administradores do grupo te restringiram do envio de mídias.</string>
     <!--permissions-->
-    <string name="PermissionContacts">Telegram precisa acessar seus contatos para que você possa se conectar aos seus amigos em todos os seus dispositivos.</string>
-    <string name="PermissionStorage">Telegram precisa acessar seu armazenamento para que você possa enviar e salvar fotos, vídeos, músicas e outras mídias.</string>
-    <string name="PermissionNoAudio">Telegram precisa acessar seu microfone para que você possa enviar mensagens de voz.</string>
-    <string name="PermissionNoAudioVideo">Telegram precisa acessar seu microfone para que você possa gravar vídeos.</string>
-    <string name="PermissionNoCamera">Telegram precisa acessar sua câmera para que você possa capturar fotos e vídeos.</string>
-    <string name="PermissionNoLocation">Telegram precisa acessar sua localização para que você possa compartilhar com seus amigos.</string>
-    <string name="PermissionNoLocationPosition">O Telegram precisa acessar sua localização</string>
-    <string name="PermissionDrawAboveOtherApps">Telegram precisa de acesso para sobrescrever outros apps para reproduzir vídeos no modo PiP.</string>
+    <string name="PermissionContacts">eVITA precisa acessar seus contatos para que você possa se conectar aos seus amigos em todos os seus dispositivos.</string>
+    <string name="PermissionStorage">eVITA precisa acessar seu armazenamento para que você possa enviar e salvar fotos, vídeos, músicas e outras mídias.</string>
+    <string name="PermissionNoAudio">eVITA precisa acessar seu microfone para que você possa enviar mensagens de voz.</string>
+    <string name="PermissionNoAudioVideo">eVITA precisa acessar seu microfone para que você possa gravar vídeos.</string>
+    <string name="PermissionNoCamera">eVITA precisa acessar sua câmera para que você possa capturar fotos e vídeos.</string>
+    <string name="PermissionNoLocation">eVITA precisa acessar sua localização para que você possa compartilhar com seus amigos.</string>
+    <string name="PermissionNoLocationPosition">O eVITA precisa acessar sua localização</string>
+    <string name="PermissionDrawAboveOtherApps">eVITA precisa de acesso para sobrescrever outros apps para reproduzir vídeos no modo PiP.</string>
     <string name="PermissionOpenSettings">CONFIGURAÇÕES</string>
     <!--Intro view-->
-    <string name="Page1Title">Telegram</string>
+    <string name="Page1Title">eVITA</string>
     <string name="Page2Title">Rápido</string>
     <string name="Page3Title">Grátis</string>
     <string name="Page4Title">Seguro</string>
@@ -1536,14 +1536,14 @@ Lembre-se, sair apaga todos os seus Chats Secretos.</string>
     <string name="Page6Title">Baseado em nuvem</string>
     <string name="Page1Message">O aplicativo de mensagem mais **rápido** do mundo.
 É **gratuito** e **seguro**.</string>
-    <string name="Page2Message">O **Telegram** envia mensagens mais rápido que qualquer outro aplicativo.</string>
-    <string name="Page3Message">**Telegram** é grátis para sempre.
+    <string name="Page2Message">O **eVITA** envia mensagens mais rápido que qualquer outro aplicativo.</string>
+    <string name="Page3Message">**eVITA** é grátis para sempre.
 Sem anúncios. Sem taxas.</string>
-    <string name="Page4Message">O **Telegram** mantém suas mensagens seguras
+    <string name="Page4Message">O **eVITA** mantém suas mensagens seguras
 de ataques de hackers.</string>
-    <string name="Page5Message">O **Telegram** não possui limites no tamanho de
+    <string name="Page5Message">O **eVITA** não possui limites no tamanho de
 suas mídia e conversas.</string>
-    <string name="Page6Message">O **Telegram** te permite acessar suas mensagens
+    <string name="Page6Message">O **eVITA** te permite acessar suas mensagens
 de múltiplos dispositivos.</string>
     <string name="StartMessaging">Comece a conversar</string>
     <!-- VoIP -->
@@ -1559,14 +1559,14 @@ de múltiplos dispositivos.</string>
     <string name="VoipFailed">Falha ao conectar</string>
     <string name="VoipRinging">Tocando</string>
     <string name="VoipBusy">Linha ocupada</string>
-    <string name="VoipInCallBranding">Chamada do Telegram</string>
-    <string name="VoipOutgoingCall">Realizando chamada do Telegram</string>
+    <string name="VoipInCallBranding">Chamada do eVITA</string>
+    <string name="VoipOutgoingCall">Realizando chamada do eVITA</string>
     <string name="VoipEndCall">Encerrar chamada</string>
     <string name="VoipOngoingAlertTitle">Outra chamada em andamento</string>
     <string name="VoipOngoingAlert">Você está em uma chamada com **%1$s**. Gostaria de encerrar e iniciar uma nova chamada com **%2$s**?</string>
     <string name="VoipNotificationSettings">Chamadas de voz</string>
     <string name="VoipSettingsRingtone">Toque</string>
-    <string name="VoipRingtoneInfo">Você pode personalizar o toque usado quando esse contato te chamar no Telegram</string>
+    <string name="VoipRingtoneInfo">Você pode personalizar o toque usado quando esse contato te chamar no eVITA</string>
     <string name="Calls">Chamadas</string>
     <string name="WhoCanCallMe">Quem pode me ligar?</string>
     <string name="WhoCanCallMeInfo">Você pode restringir quem pode te ligar.</string>
@@ -1590,14 +1590,14 @@ de múltiplos dispositivos.</string>
     <string name="NoCallLog">Você ainda não realizou chamadas.</string>
     <string name="VoipPeerIncompatible">O aplicativo de **%1$s** está usando um protocolo incompatível. O aplicativo desse usuário precisa ser atualizado para que você possa chamá-lo.</string>
     <string name="VoipPeerOutdated">O aplicativo de **%1$s** não suporta chamadas. O aplicativo desse usuário precisa ser atualizado para que você possa chamá-lo.</string>
-    <string name="VoipRateCallAlert">Avalie a qualidade de sua chamada do Telegram</string>
-    <string name="VoipNeedMicPermission">O Telegram precisa acessar seu microfone para poder fazer chamadas.</string>
+    <string name="VoipRateCallAlert">Avalie a qualidade de sua chamada do eVITA</string>
+    <string name="VoipNeedMicPermission">O eVITA precisa acessar seu microfone para poder fazer chamadas.</string>
     <string name="VoipFeedbackCommentHint">Adicionar um comentário opcional</string>
     <string name="CallBack">Ligar de Volta</string>
     <string name="CallAgain">Ligar Novamente</string>
     <string name="DefaultRingtone">Padrão</string>
     <string name="ConfirmDeleteCallLog">Você tem certeza que deseja apagar essa entrada do registro de chamadas?</string>
-    <string name="CallViaTelegram">Chamada do Telegram</string>
+    <string name="CallViaeVITA">Chamada do eVITA</string>
     <string name="VoipAudioRoutingEarpiece">Auricular</string>
     <string name="VoipAudioRoutingSpeaker">Alto-falante</string>
     <string name="VoipAudioRoutingBluetooth">Bluetooth</string>
@@ -1608,7 +1608,7 @@ de múltiplos dispositivos.</string>
     <string name="CallReportHint">O que aconteceu de errado?</string>
     <string name="CallReportIncludeLogs">Incluir informação técnica</string>
     <string name="CallReportLogsExplain">Isso não irá revelar o conteúdo de sua conversa, mas nos ajudará a resolver o problema.</string>
-    <string name="CallReportSent">Obrigado por ajudar a tornar as chamadas do Telegram melhores.</string>
+    <string name="CallReportSent">Obrigado por ajudar a tornar as chamadas do eVITA melhores.</string>
     <!--plural-->
     <string name="Recipient_zero">%1$d destinatários</string>
     <string name="Recipient_one">%1$d destinatário</string>
@@ -1622,18 +1622,18 @@ de múltiplos dispositivos.</string>
     <string name="OnlineCount_few">%1$d online</string>
     <string name="OnlineCount_many">%1$d online</string>
     <string name="OnlineCount_other">%1$d online</string>
-    <string name="TelegramContacts_zero">%1$d contatos no Telegram </string>
-    <string name="TelegramContacts_one">%1$d contato no Telegram </string>
-    <string name="TelegramContacts_two">%1$d contatos no Telegram </string>
-    <string name="TelegramContacts_few">%1$d contatos no Telegram </string>
-    <string name="TelegramContacts_many">%1$d contatos no Telegram </string>
-    <string name="TelegramContacts_other">%1$d contatos no Telegram </string>
-    <string name="InviteTextNum_zero">Ei, eu estou usando o Telegram para conversar – assim como %1$d dos nossos contatos. Junte-se a nós! Baixe aqui: %2$s</string>
-    <string name="InviteTextNum_one">Ei, eu estou usando o Telegram para conversar – assim como %1$d dos nossos contatos. Junte-se a nós! Baixe aqui: %2$s</string>
-    <string name="InviteTextNum_two">Ei, eu estou usando o Telegram para conversar – assim como %1$d dos nossos contatos. Junte-se a nós! Baixe aqui: %2$s</string>
-    <string name="InviteTextNum_few">Ei, eu estou usando o Telegram para conversar – assim como %1$d dos nossos contatos. Junte-se a nós! Baixe aqui: %2$s</string>
-    <string name="InviteTextNum_many">Ei, eu estou usando o Telegram para conversar – assim como %1$d dos nossos contatos. Junte-se a nós! Baixe aqui: %2$s</string>
-    <string name="InviteTextNum_other">Ei, eu estou usando o Telegram para conversar – assim como %1$d dos nossos contatos. Junte-se a nós! Baixe aqui: %2$s</string>
+    <string name="eVITAContacts_zero">%1$d contatos no eVITA </string>
+    <string name="eVITAContacts_one">%1$d contato no eVITA </string>
+    <string name="eVITAContacts_two">%1$d contatos no eVITA </string>
+    <string name="eVITAContacts_few">%1$d contatos no eVITA </string>
+    <string name="eVITAContacts_many">%1$d contatos no eVITA </string>
+    <string name="eVITAContacts_other">%1$d contatos no eVITA </string>
+    <string name="InviteTextNum_zero">Ei, eu estou usando o eVITA para conversar – assim como %1$d dos nossos contatos. Junte-se a nós! Baixe aqui: %2$s</string>
+    <string name="InviteTextNum_one">Ei, eu estou usando o eVITA para conversar – assim como %1$d dos nossos contatos. Junte-se a nós! Baixe aqui: %2$s</string>
+    <string name="InviteTextNum_two">Ei, eu estou usando o eVITA para conversar – assim como %1$d dos nossos contatos. Junte-se a nós! Baixe aqui: %2$s</string>
+    <string name="InviteTextNum_few">Ei, eu estou usando o eVITA para conversar – assim como %1$d dos nossos contatos. Junte-se a nós! Baixe aqui: %2$s</string>
+    <string name="InviteTextNum_many">Ei, eu estou usando o eVITA para conversar – assim como %1$d dos nossos contatos. Junte-se a nós! Baixe aqui: %2$s</string>
+    <string name="InviteTextNum_other">Ei, eu estou usando o eVITA para conversar – assim como %1$d dos nossos contatos. Junte-se a nós! Baixe aqui: %2$s</string>
     <string name="Chats_zero">%1$d conversas</string>
     <string name="Chats_one">%1$d conversa</string>
     <string name="Chats_two">%1$d conversas</string>

@@ -1,5 +1,5 @@
 /*
- * This is the source code of Telegram for Android v. 3.x.x.
+ * This is the source code of eVITA for Android v. 3.x.x.
  * It is licensed under GNU GPL v. 2 or later.
  * You should have received a copy of the license in this archive (see LICENSE).
  *
@@ -14,7 +14,7 @@ public class Intro {
     public static native void setPage(int page);
     public static native void setDate(float a);
     public static native void setIcTextures(int a_ic_bubble_dot, int a_ic_bubble, int a_ic_cam_lens, int a_ic_cam, int a_ic_pencil, int a_ic_pin, int a_ic_smile_eye, int a_ic_smile, int a_ic_videocam);
-    public static native void setTelegramTextures(int a_telegram_sphere, int a_telegram_plane);
+    public static native void seteVITATextures(int a_telegram_sphere, int a_telegram_plane);
     public static native void setFastTextures(int a_fast_body, int a_fast_spiral, int a_fast_arrow, int a_fast_arrow_shadow);
     public static native void setFreeTextures(int a_knot_up, int a_knot_down);
     public static native void setPowerfulTextures(int a_powerful_mask, int a_powerful_star, int a_powerful_infinity, int a_powerful_infinity_white);
