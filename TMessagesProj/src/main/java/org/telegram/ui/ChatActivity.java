@@ -43,6 +43,8 @@ import android.os.Bundle;
 import android.provider.ContactsContract;
 import android.provider.MediaStore;
 import android.support.v4.content.FileProvider;
+import android.support.v4.content.res.ResourcesCompat;
+import android.support.v4.graphics.drawable.DrawableCompat;
 import android.text.Spannable;
 import android.text.SpannableString;
 import android.text.SpannableStringBuilder;
@@ -1687,7 +1689,8 @@ public class ChatActivity extends BaseFragment implements NotificationCenter.Not
 
         contentView = (SizeNotifierFrameLayout) fragmentView;
 
-        contentView.setBackgroundImage(Theme.getCachedWallpaper());
+//        contentView.setBackgroundImage(Theme.getCachedWallpaper());
+        contentView.setBackground(ResourcesCompat.getDrawable(fragmentView.getContext().getResources(), R.drawable.main_background_scaled, null));
 
         emptyViewContainer = new FrameLayout(context);
         emptyViewContainer.setVisibility(View.INVISIBLE);
